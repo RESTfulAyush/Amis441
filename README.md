@@ -34,7 +34,7 @@ I'm a passionate **Full Stack Developer** with experience in building scalable w
 ---
 
 ## 📊 Most Used Languages:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amis441&layout=compact&theme=radical&langs_count=6)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RESTfulAyush&layout=compact&theme=radical&langs_count=6)
 
 ---
 
